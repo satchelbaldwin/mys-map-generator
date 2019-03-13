@@ -1,0 +1,11 @@
+# mys-map-generator  
+  
+This project is a webapp that creates annotated images of floorplans of tradeshows scraped from MapYourShow.  
+Examples include CES and the annual Fancy Food Shows, as well as others.
+  
+# Screenshots
+  
+![search page](image.png)
+![results](image2.png)
+
+
